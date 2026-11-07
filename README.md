@@ -3,7 +3,7 @@
 Multi-page responsive travel website for coastal and island trips. The final version extends the midterm and endterm projects
 (same topic, same team) into a client-side web application with a live weather API, classes, saved trips, a CRUD page, a dashboard and advanced catalog tools.
 
-**Live site:** _paste your GitHub Pages / Netlify link here_
+
 
 ## Team "AI love"
 * Balnur
